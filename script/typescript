@@ -1196,40 +1196,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 8. Pull latest changes
 9. Branch management
 0. Exit
-Choose an option:  _ \ / _` | '__| __| | | |_ || || |/ _` |
- ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
-|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
-[0m
-[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
-[0;36m--------------------------------------------------------[0m
-[0;32mStrateUpCompany[0m
-[0;36mCurrent Date: 2025-06-05 19:41:51[0m
-
-[0;36mCurrent Git Status:[0m
-[0;36m------------------[0m
-[0;35mCurrent branch:[0m master
-[0;35mRemote tracking:[0m origin/master
-
-[0;35mModified files:[0m
-  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
-  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
-  [0;31mDeleted:[0m ./scripts/01-project-init.sh
-  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
-  [0;33mUntracked:[0m ../ScriptControll/
-  [0;33mUntracked:[0m ../scripts2/
-  [0;33mUntracked:[0m ../typescript
-
-[0;36mAvailable Actions:[0m
-1. Smart analyze changes and suggest commit message
-2. Deep analyze content changes
-3. Stage all changes
-4. Stage specific files
-5. Unstage files
-6. Commit with smart message
-7. Push commits
-8. Pull latest changes
-9. Branch management
-0. Exit
 Choose an option: 1
 [0;36mGenerating Smart Commit Message:[0m
 [0;36m-----------------------------[0m
@@ -1291,3 +1257,575 @@ Choose an option: 2
 [0;32mStrateUpCompany[0m
 [0;36mCurrent Date: 2025-06-05 19:42:25[0m
 
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ScriptControll/
+  [0;33mUntracked:[0m typescript
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 3
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_|[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ScriptControll/
+  [0;33mUntracked:[0m typescript
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 3
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:42:29[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m "ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  [0;32mAdded:[0m "ScriptControll/SCRIPT: 6.0-communication-providers.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.0 - environment-validation.4
+[0;33mEnter file paths to stage (space separated):[0m
+
+Nothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Disable this message with "git config set advice.addEmptyPathspec false"[m
+[0;32mChanges have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:42:36[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m "ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  [0;32mAdded:[0m "ScriptControll/SCRIPT: 6.0-communication-providers.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.0 - environment-validation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.1 - dependency-installation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.2 - git-configuration.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.3 - docker-environment.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.4 - development-tools.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 13.2 - AI-Powered Content Generation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 16.3 - Automated Social Media Marketig.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 7.2 - IA.sh"
+  [0;32mAdded:[0m "ScriptControll/script 1.0-monorepo-structure.sh"
+  AM typescript
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2iles:[0m
+  [0;32mAdded:[0m "ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  [0;32mAdded:[0m "ScriptControll/SCRIPT: 6.0-communication-providers.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.0 - environment-validation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.1 - dependency-installation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.2 - git-configuration.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.3 - docker-environment.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 0.4 - development-tools.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 13.2 - AI-Powered Content Generation.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 16.3 - Automated Social Media Marketig.sh"
+  [0;32mAdded:[0m "ScriptControll/Script 7.2 - IA.sh"
+  [0;32mAdded:[0m "ScriptControll/script 1.0-monorepo-structure.sh"
+  AM typescript
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 6
+[0;36mFiles to be committed:[0m
+  - "script/ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  - script/ScriptControll/SCRIPT: 6.0-communication-providers.sh
+  - script/ScriptControll/Script 0.0 - environment-validation.sh
+  - script/ScriptControll/Script 0.1 - dependency-installation.sh
+  - script/ScriptControll/Script 0.2 - git-configuration.sh
+  - script/ScriptControll/Script 0.3 - docker-environment.sh
+  - script/ScriptContutomated Content md" Media script/ScriptControll/script script/ScriptControll/Script script/ScriptControll/SCRIPT: script/typescript sh Social [0m   Directories Changed: [0;32m       2[0m
+ 12 files changed, 6780 insertions(+)
+ create mode 100644 "script/ScriptControll/ALINHANDO AUTOMA\303\207\303\225ES.md"
+ create mode 100644 script/ScriptControll/SCRIPT: 6.0-communication-providers.sh
+ create mode 100644 script/ScriptControll/Script 0.0 - environment-validation.sh
+ create mode 100644 script/ScriptControll/Script 0.1 - dependency-installation.sh
+ create mode 100644 script/ScriptControll/Script 0.2 - git-configuration.sh
+ create mode 100644 script/ScriptControll/Script 0.3 - docker-environment.sh
+ create mode 100644 script/ScriptControll/Script 0.4 - development-tools.sh
+ create mode 100644 script/ScriptControll/Script 13.2 - AI-Powered Content Generation.sh
+ create mode 100644 script/ScriptControll/Script 16.3 - Automated Social Media Marketig.sh
+ create mode 100644 script/ScriptControll/Script 7.2 - IA.sh
+ create mode 100644 script/ScriptControll/script 1.0-monorepo-structure.sh
+ create mode 100644 script/typescript
+[0;32mSuccessfully committed changes[0m
+
+[0;33mWould you like to push these changes? (y/n)[0m
+y
+Enumerating objects: 18, done.
+Counting objects:   5% (1/18)Counting objects:  11% (2/18)Counting objects:  16% (3/18)Counting objects:  22% (4/18)Counting objects:  27% (5/18)Counting objects:  33% (6/18)Counting objects:  38% (7/18)Counting objects:  44% (8/18)Counting objects:  50% (9/18)Counting objects:  55% (10/18)Counting objects:  61% (11/18)Counting objects:  66% (12/18)Counting objects:  72% (13/18)Counting objects:  77% (14/18)Counting objects:  83% (15/18)Counting objects:  88% (16/18)Counting objects:  94% (17/18)Counting objects: 100% (18/18)Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects:   6% (1/16)Compressing objects:  12% (2/16)Compressing objects:  18% (3/16)Compressing objects:  25% (4/16)Compressing objects:  31% (5/16)Compressing objects:  37% (6/16)Compressing objects:  43% (7/16)Compressing objects:  50% (8/16)Compressing objects:  56% (9/16)Compressing objects:  62%e mode 100644 script/ScriptControll/script 1.0-monorepo-structure.sh
+ create mode 100644 script/typescript
+[0;32mSuccessfully committed changes[0m
+
+[0;33mWould you like to push these changes? (y/n)[0m
+y
+Enumerating objects: 18, done.
+Counting objects:   5% (1/18)Counting objects:  11% (2/18)Counting objects:  16% (3/18)Counting objects:  22% (4/18)Counting objects:  27% (5/18)Counting objects:  33% (6/18)Counting objects:  38% (7/18)Counting objects:  44% (8/18)Counting objects:  50% (9/18)Counting objects:  55% (10/18)Counting objects:  61% (11/18)Counting objects:  66% (12/18)Counting objects:  72% (13/18)Counting objects:  77% (14/18)Counting objects:  83% (15/18)Counting objects:  88% (16/18)Counting objects:  94% (17/18)Counting objects: 100% (18/18)Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects:   6% (1/16)Compressing objects:  12% (2/16)Compressing objects:  18% (3/16)Compressing objects:  25% (4/16)Compressing objects:  31% (5/16)Compressing objects:  37% (6/16)Compressing objects:  43% (7/16)Compressing objects:  50% (8/16)Compressing objects:  56% (9/16)Compressing objects:  62% (10/16)Compressing objects:  68% (11/16)Compressing objects:  75% (12/16)Compressing objects:  81% (13/16)Compressing objects:  87% (14/16)Compressing objects:  93% (15/16)Compressing objects: 100% (16/16)Compressing objects: 100% (16/16), done.
+Writing objects:   6% (1/16)Writing objects:  12% (2/16)Writing objects:  18% (3/16)Writing objects:  25% (4/16)Writing objects:  31% (5/16)Writing objects:  37% (6/16)Writing objects:  43% (7/16)Writing objects:  50% (8/16)Writing objects:  56% (9/16)Writing objects:  62% (10/16)Writing objects:  68% (11/16)Writing objects:  75% (12/16)Writing objects:  81% (13/16)Writing objects:  87% (14ified files:[0m
+  [0;32mModified:[0m ypescript
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 7
+Everything up-to-date
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 20:38:50[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m .1-complete-environment-setup.md
+  [0;31mDeleted:[0m .1-fix-git-environment.sh
+  [0;31mDeleted:[0m .2-complete-environment-setup.md
+  [0;31mDeleted:[0m .2-fix-git-environment.md
+  [0;31mDeleted:[0m .3-complete-enviroment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.sh
+  [0;31mDelete7
+Everything up-to-date
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 20:38:50[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m .1-complete-environment-setup.md
+  [0;31mDeleted:[0m .1-fix-git-environment.sh
+  [0;31mDeleted:[0m .2-complete-environment-setup.md
+  [0;31mDeleted:[0m .2-fix-git-environment.md
+  [0;31mDeleted:[0m .3-complete-enviroment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.sh
+  [0;31mDeleted:[0m 0.1-fix-git-environment.md
+  [0;31mDeleted:[0m 0.1-fix-git-environment.sh
+  [0;31mDeleted:[0m 0_foundation_hubChecking.py
+  [0;31mDeleted:[0m 1-project-init.sh
+  [0;31mDeleted:[0m 1-project.init.md
+  [0;31mDeleted:[0m 1_environment_setup.py
+  [0;31mDeleted:[0m 2-project.ini.md
+  [0;31mDeleted:[0m 3-project.ini.md
+  [0;31mDeleted:[0m .1-project-init.sh
+  [0;31mDeleted:[0m Architecture Foundation.md"
+  [0;31mDeleted:[0m ANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;31mDeleted:[0m ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  [0;31mDeleted:[0m ScriptControll/SCRIPT: 6.0-communication-providers.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.0 - environment-validation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.1 - dependency-installation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.2 - git-configuration.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.3 - docker-environment.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.4 - development-tools.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 13.2 - AI-Powered Content Generation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 16.3 - Automated Social Media Marketig.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 7.2 - IA.sh"
+  [0;31mDeleted:[0m ScriptControll/script 1.0-monorepo-structure.sh"
+  [0;31mDeleted:[0m studo-de-repositorios.md
+  [0;31mDeleted:[0m ramework-22-sprints.md
+  [0;31mDeleted:[0m ramework-sprints.md
+  [0;31mDeleted:[0m it-workflow.sh
+  [0;31mDeleted:[0m s12.md
+  [0;31mDeleted:[0m cript_0.1_architecture_foundation.py
+  [0;31mDeleted:[0m cript_0_foundation_hub.py
+  [0;31mDeleted:[0m hell-diamante.md
+  [0;31mDeleted:[0m  [0;33mUntracked:[0m ../1.1-project-init.sh
+  [0;33mUntracked:[0m "../ALINHANDO AUTOMA303207303225ES.md"
+  [0;33mUntracked:[0m "../Architecture Foundation.md"
+  [0;33mUntracked:[0m ../MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m "../SCRIPT: 6.0-communication-providers.sh"
+  [0;33mUntracked:[0m "../Script 0.0 - environment-validation.sh"
+  [0;33mUntracked:[0m "../Script 0.1 - dependency-installation.sh"
+  [0;33mUntracked:[0m "../Script 0.2 - git-configuration.sh"
+  [0;33mUntracked:[0m "../Script 0.3 - docker-environment.sh"
+  [0;33mUntracked:[0m "../Script 0.4 - development-tools.sh"
+  [0;33mUntracked:[0m "../Script 13.2 - AI-Powered Content Generation.sh"
+  [0;33mUntracked:[0m "../Script 16.3 - Automated Social Media Marketig.sh"
+  [0;33mUntracked:[0m "../Script 7.2 - IA.sh"
+  [0;33mUntracked:[0m ../estudo-de-repositorios.md
+  [0;33mUntracked:[0m ../framework-22-sprints.md
+  [0;33mUntracked:[0m ../framework-sprints.md
+  [0;33mUntracked:[0m ../git-workflow.sh
+  [0;33mUntracked:[0m ../os12.md
+  [0;33mUntracked:[0m "../script 1.0-monorepo-structure.sh"
+  [0;33mUntracked:[0m ../script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m ../script_0_foundation_hub.py
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../shell-diamante.md
+  [0;33mUntracked:[0m ../smart-git-workflow.md
+  [0;33mUntracked:[0m ../smart-git-workflow.sh
+  [0;33mUntracked:[0m "../360237222216framerork.md"
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 20:38:58[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m .1-complete-environment-setup.md
+  [0;31mDeleted:[0m .1-fix-git-environment.sh
+  [0;31mDeleted:[0m .2-complete-environment-setup.md
+  [0;31mDeleted:[0m .2-fix-git-environment.md
+  [0;31mDeleted:[0m .3-complete-enviroment-setup.md
+  [0;31mDeleted:[1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 20:38:58[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m .1-complete-environment-setup.md
+  [0;31mDeleted:[0m .1-fix-git-environment.sh
+  [0;31mDeleted:[0m .2-complete-environment-setup.md
+  [0;31mDeleted:[0m .2-fix-git-environment.md
+  [0;31mDeleted:[0m .3-complete-enviroment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.sh
+  [0;31mDeleted:[0m 0.1-fix-git-environment.md
+  [0;31mDeleted:[0m 0.1-fix-git-environment.sh
+  [0;31mDeleted:[0m 0_foundation_hubChecking.py
+  [0;31mDeleted:[0m 1-project-init.sh
+  [0;31mDeleted:[0m 1-project.init.md
+  [0;31mDeleted:[0m 1_environment_setup.py
+  [0;31mDeleted:[0m 2-project.ini.md
+  [0;31mDeleted:[0m 3-project.ini.md
+  [0;31mDeleted:[0m .1-project-init.sh
+  [0;31mDeleted:[0m Architecture Foundation.md"
+  [0;31mDeleted:[0m ANUAL-DO-USUARIO-GIT-INTELI  [0;31mDeleted:[0m mart-git-workflow.md
+  [0;31mDeleted:[0m mart-git-workflow.sh
+  [0;32mModified:[0m ypescript
+  [0;31mDeleted:[0m 360237222216framerork.md"
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../0.1-complete-environment-setup.md
+  [0;33mUntracked:[0m ../0.1-fix-git-environment.sh
+  [0;33mUntracked:[0m ../0.2-complete-environment-setup.md
+  [0;33mUntracked:[0m ../0.2-fix-git-environment.md
+  [0;33mUntracked:[0m ../0.3-complete-enviroment-setup.md
+  [0;33mUntracked:[0m ../00-complete-environment-setup.md
+  [0;33mUntracked:[0m ../00-complete-environment-setup.sh
+  [0;33mUntracked:[0m ../00.1-fix-git-environment.md
+  [0;33mUntracked:[0m ../00.1-fix-git-environment.sh
+  [0;33mUntracked:[0m ../00_foundation_hubChecking.py
+  [0;33mUntracked:[0m ../01-project-init.sh
+  [0;33mUntracked:[0m ../01-project.init.md
+  [0;33mUntracked:[0m ../01_environment_setup.py
+  [0;33mUntracked:[0m ../02-project.ini.md
+  [0;33mUntracked:[0m ../03-project.ini.md
+  [0;33mUntracked:[0m ../1.1-project-init.sh
+  [0;33mUntracked:[0m "../ALINHANDO AUTOMA303207303225ES.md"
+  [0;33mUntracked:[0m "../Architecture Foundation.md"
+  [0;33mUntracked:[0m ../MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m "../SCRIPT: 6.0-communication-providers.sh"
+  [0;33mUntracked:[0m "../Script 0.0 - environment-validation.sh"
+  [0;33mUntracked:[0m "../Script 0.1 - dependency-installation.sh"
+  [0;33mUntracked:[0m "../Script 0.2 - git-configuration.sh"
+  [0;33mUntracked:[0m "../Script 0.3 - docker-environment.sh"
+  [0;33mUntracked:[0m "../Script 0.4 - development-tools.sh"
+  [0;33mUntracked:[0m "../Script 13.2 - AI-Powered Content Generation.sh"
+  [0;33mUntracked:[0m "../Script 16.3 - Automated Social Media Marketig.sh"
+  [0;33mUntracked:[0m "../Script 7.2 - IA.sh"
+  [0;33mUntracked:[0m ../estudo-de-repositorios.md
+  [0;33mUntracked:[0m ../framework-22-sprints.md
+  [0;33mUntracked:[0m ../framework-sprints.md
+  [0;33mUntracked:[0m ../git-workflow.sh
+  [0;33mUntracked:[0m ../os12.md
+  [0;33mUntracknt_setup.py
+  [0;33mUntracked:[0m ../02-project.ini.md
+  [0;33mUntracked:[0m ../03-project.ini.md
+  [0;33mUntracked:[0m ../1.1-project-init.sh
+  [0;33mUntracked:[0m "../ALINHANDO AUTOMA303207303225ES.md"
+  [0;33mUntracked:[0m "../Architecture Foundation.md"
+  [0;33mUntracked:[0m ../MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m "../SCRIPT: 6.0-communication-providers.sh"
+  [0;33mUntracked:[0m "../Script 0.0 - environment-validation.sh"
+  [0;33mUntracked:[0m "../Script 0.1 - dependency-installation.sh"
+  [0;33mUntracked:[0m "../Script 0.2 - git-configuration.sh"
+  [0;33mUntracked:[0m "../Script 0.3 - docker-environment.sh"
+  [0;33mUntracked:[0m "../Script 0.4 - development-tools.sh"
+  [0;33mUntracked:[0m "../Script 13.2 - AI-Powered Content Generation.sh"
+  [0;33mUntracked:[0m "../Script 16.3 - Automated Social Media Marketig.sh"
+  [0;33mUntracked:[0m "../Script 7.2 - IA.sh"
+  [0;33mUntracked:[0m ../estudo-de-repositorios.md
+  [0;33mUntracked:[0m ../framework-22-sprints.md
+  [0;33mUntracked:[0m ../framework-sprints.md
+  [0;33mUntracked:[0m ../git-workflow.sh
+  [0;33mUntracked:[0m ../os12.md
+  [0;33mUntracked:[0m "../script 1.0-monorepo-structure.sh"
+  [0;33mUntracked:[0m ../script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m ../script_0_foundation_hub.py
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../shell-diamante.md
+  [0;33mUntracked:[0m ../smart-git-workflow.md
+  [0;33mUntracked:[0m ../smart-git-workflow.sh
+  [0;33mUntracked:[0m "../360237222216framerork.md"
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6
+  [0;31mDeleted:[0m .3-complete-enviroment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.md
+  [0;31mDeleted:[0m 0-complete-environment-setup.sh
+  [0;31mDeleted:[0m 0.1-fix-git-environment.md
+  [0;31mDeleted:[0m 0.1-fix-git-environment.sh
+  [0;31mDeleted:[0m 0_foundation_hubChecking.py
+  [0;31mDeleted:[0m 1-project-init.sh
+  [0;31mDeleted:[0m 1-project.init.md
+  [0;31mDeleted:[0m 1_environment_setup.py
+  [0;31mDeleted:[0m 2-project.ini.md
+  [0;31mDeleted:[0m 3-project.ini.md
+  [0;31mDeleted:[0m .1-project-init.sh
+  [0;31mDeleted:[0m Architecture Foundation.md"
+  [0;31mDeleted:[0m ANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;31mDeleted:[0m ScriptControll/ALINHANDO AUTOMA303207303225ES.md"
+  [0;31mDeleted:[0m ScriptControll/SCRIPT: 6.0-communication-providers.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.0 - environment-validation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.1 - dependency-installation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.2 - git-configuration.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.3 - docker-environment.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 0.4 - development-tools.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 13.2 - AI-Powered Content Generation.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 16.3 - Automated Social Media Marketig.sh"
+  [0;31mDeleted:[0m ScriptControll/Script 7.2 - IA.sh"
+  [0;31mDeleted:[0m ScriptControll/script 1.0-monorepo-structure.sh"
+  [0;31mDeleted:[0m studo-de-repositorios.md
+  [0;31mDeleted:[0m ramework-22-sprints.md
+  [0;31mDeleted:[0m ramework-sprints.md
+  [0;31mDeleted:[0m it-workflow.sh
+  [0;31mDeleted:[0m s12.md
+  [0;31mDeleted:[0m cript_0.1_architecture_foundation.py
+  [0;31mDeleted:[0m cript_0_foundation_hub.py
+  [0;31mDeleted:[0m hell-diamante.md
+  [0;31mDeleted:[0m mart-git-workflow.md
+  [0;31mDeleted:[0m mart-git-workflow.sh
+  [0;32mModified:[0m ypescript
+  [0;31mDeleted:[0m 360237222216framerork.md"
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../0.1-complete-environment-setup.md
+  [0;33mUntracked:[0m ../0.1-fix-git-environment.sh
+  [0;33mUntracked:[0m ../0.2-complete-environment-setup.md
+  [0;33mUntracked:[0m ../0.2-fix-git-environment.md
+  [0;33mUntracked:[0m ../0.3-complete-enviroment-setup.md
+  [0;33mUntracked:[0m ../00-complete-environment-setup.md
+  [0;33mUntracked:[0m ../00-complete-environment-setup.sh
+  [0;33mUntracked:[0m ../00.1-fix-git-environment.md
+  [0;33mUntracked:[0m ../00.1-fix-git-environment.sh
+  [0;33mUntracked:[0m ../00_foundation_hubChecking.py
+  [0;33mUntracked:[0m ../01-project-init.sh
+  [0;33mUntracked:[0m ../01-project.init.md
+  [0;33mUntracked:[0m ../01_environment_setup.py
+  [0;33mUntracked:[0m ../02-project.ini.md
+  [0;33mUntracked:[0m ../03-project.ini.md
+  [0;33mUntracked:[0m ../1.1-project-init.sh
+  [0;33mUntracked:[0m "../ALINHANDO AUTOMA303207303225ES.md"
+  [0;33mUntracked:[0m "../Architecture Foundation.md"
+  [0;33mUntracked:[0m ../MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m "../SCRIPT: 6.0-communication-providers.sh"
+  [0;33mUntracked:[0m "../Script 0.0 - environment-validation.sh"
+  [0;33mUntracked:[0m "../Script 0.1 - dependency-installation.sh"
+  [0;33mUntracked:[0m "../Script 0.2 - git-configuration.sh"
+  [0;33mUntracked:[0m "../Script 0.3 - docker-environment.sh"
+  [0;33mUntracked:[0m "../Script 0.4 - development-tools.sh"
+  [0;33mUntracked:[0m "../Script 13.2 - AI-Powered Content Generation.sh"
+  [0;33mUntracked:[0m "../Script 16.3 - Automated Social Media Marketig.sh"
+  [0;33mUntracked:[0m "../Script 7.2 - IA.sh"
+  [0;33mUntracked:[0m ../estudo-de-repositorios.md
+  [0;33mUntracked:[0m ../framework-22-sprints.md
+  [0;33mUntracked:[0m ../framework-sprints.md
+  [0;33mUntracked:[

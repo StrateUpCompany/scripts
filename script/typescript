@@ -1,0 +1,1293 @@
+Script started on Thu Jun  5 17:49:07 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito]1;..ts-site-feito]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito\[0m[27m[24m[J[01;32m➜  [36mScripts-site-feito[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mScripts-site-feito[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [Klls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mscript[39;49m[0m         [1m[36mScriptControll[39;49m[0m [1m[36mscripts2[39;49m[0m       typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito]1;..ts-site-feito]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito\[0m[27m[24m[J[01;32m➜  [36mScripts-site-feito[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd scruo  ipt[?1l>[?2004l
+]2;cd script]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito/script]1;..-feito/script]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito/script\[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[7mchmod +x smart-git-workflow.sh[27m[30D[27mc[27mh[27mm[27mo[27md[27m [27m+[27mx[27m [27ms[27mm[27ma[27mr[27mt[27m-[27mg[27mi[27mt[27m-[27mw[27mo[27mr[27mk[27mf[27ml[27mo[27mw[27m.[27ms[27mh[?1l>[?2004l
+]2;chmod +x smart-git-workflow.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito/script]1;..-feito/script]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito/script\[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[7m./smart-git-workflow.sh[27m[23D[27m.[27m/[27ms[27mm[27ma[27mr[27mt[27m-[27mg[27mi[27mt[27m-[27mw[27mo[27mr[27mk[27mf[27ml[27mo[27mw[27m.[27ms[27mh[?1l>[?2004l
+]2;./smart-git-workflow.sh]1;./smart-git-workflow.sh[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 17:50:04[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-proje[7m./smart-git-workflow.sh[27m[23D[27m.[27m/[27ms[27mm[27ma[27mr[27mt[27m-[27mg[27mi[27mt[27m-[27mw[27mo[27mr[27mk[27mf[27ml[27mo[27mw[27m.[27ms[27mh[?1l>[?2004l
+]2;./smart-git-workflow.sh]1;./smart-git-workflow.sh[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 17:50:04[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDelete0
+[0;32mGoodbye![0m
+[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito/script]1;..-feito/script]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito/script\[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[7m# Add this line to your .bashrc or .zshrc file[27m
+[7mexport PATH="$PATH:/path/to/directory/containing/script"[27m[K[A[31D[27m#[27m [27mA[27md[27md[27m [27mt[27mh[27mi[27ms[27m [27ml[27mi[27mn[27me[27m [27mt[27mo[27m [27my[27mo[27mu[27mr[27m [27m.[27mb[27ma[27ms[27mh[27mr[27mc[27m [27mo[27mr[27m [27m.[27mz[27ms[27mh[27mr[27mc[27m [27mf[27mi[27ml[27me[1B[27me[27mx[27mp[27mo[27mr[27mt[27m [27mP[27mA[27mT[27mH[27m=[27m"[27m$[27mP[27mA[27mT[27mH[27m:[27m/[27mp[27ma[27mt[27mh[27m/[27mt[27mo[27m/[27md[27mi[27mr[27me[27mc[27mt[27mo[27mr[27my[27m/[27mc[27mo[27mn[27mt[27ma[27mi[27mn[27mi[27mn[27mg[27m/[27ms[27mc[27mr[27mi[27mp[27mt[27m"[?1l>[?2004l
+]2;export PATH="$PATH:/path/to/directory/containing/script" ]1;#[1m[7m%[27m[1m[0m                                                                                                                                                  ]2;smotion@MacBook-Pro-de-Felipe:~/Scripts-site-feito/script]1;..-feito/script]7;file://MacBook-Pro-de-Felipe.local/Users/smotion/Scripts-site-feito/script\[0m[27m[24m[J[01;32m➜  [36mscript[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h# Add this line to your .bashrc or .zshrc file
+export PATH="$PATH:/path/to/directory/containing/script"[K[A[15C[46D                                              [1B[K[A[25C# Add this line to your .bashrc or .zshrc file[1Bexport PATH="$PATH:/path/to/directory/containing/script"[K[A[15C[46D./smart-git-workflow.sh                       [1B[K[A[48C[?1l>[?2004l[1B]2;./smart-git-workflow.sh]1;./smart-git-workflow.sh[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:05:27[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:05:41[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:05:41[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 2
+[0;36mDeep Analysis of Changes:[0m
+[0;36m-----------------------[0m
+[0;33mNo changes staged for deep analysis.[0m
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------art-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 3
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:05:56[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  [0;32mAdded:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;32mAdded:[0m estudo-de-repositorios.md
+  [0;32mAdded:[0m framework-22-sprints.md
+  [0;32mAdded:[0m framework-sprints.md
+  [0;32mAdded:[0m git-workflow.sh
+  [0;32mAdded:[0m os12.md
+  [0;32mAdded:[0m script_0.1_architecture_foundation.py
+  [0;32mAdded:[0m script_0_foundation_hub.py
+  [0;32mAdded:[0m shell-diamante.md
+  [0;32mAdded:[0m smart-git-workflow.md
+  [0;32mAdded:[0m smart-git-workflow.sh
+  [0;32mAdded:[0m "360237222216framerork.md"
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 4
+[0;33mEnter file paths to stage (space separated):[0m
+
+Nothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Disable this message with "git config set advice.addEmptyPathspec false"[m
+[0;32mChanges have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:15[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  4
+[0;33mEnter file paths to stage (space separated):[0m
+
+Nothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Disable this message with "git config set advice.addEmptyPathspec false"[m
+[0;32mChanges have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:15[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  [0;32mAdded:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;32mAdded:[0m estudo-de-repositorios.md
+  [0;32mAdded:[0m framework-22-sprints.md
+  [0;32mAdded:[0m framework-sprints.md
+  [0;32mAdded:[0m git-workflow.sh
+  [0;32mAdded:[0m os12.md
+  [0;32mAdded:[0m script_0.1_architecture_foundation.py
+  [0;32mAdded:[0m script_0_foundation_hub.py
+  [0;32mAdded:[0m shell-diamante.md
+  [0;32mAdded:[0m smart-git-workflow.md
+  [0;32mAdded:[0m smart-git-workflow.sh
+  [0;32mAdded:[0m "360237222216framerork.md"
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 5
+[0;33mEnter file paths to unstage (space separated):[0m
+
+Unstaged changes after reset:
+D	scripts/00-environment-prep.sh
+D	scripts/00.1-fix-git-environment.sh
+D	scripts/01-project-init.sh
+D	scripts/1.1-project-init.sh
+[0;32mChanges have been unstaged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| |[0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 6
+[0;33mNo changes staged for commit.[0m
+Would you like to stage all changes? (y/n)
+
+Please stage your changes first using 'git add <files>'
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:30[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:30[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./s7
+[0;33mBranch master doesn't exist on remote.[0m
+Would you like to push and set upstream? (y/n)
+Y
+[0;33mSkipping push[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:42[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 9
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:06:56[0m
+
+[0;36mBranch Management:[0m
+[0;36m-----------------[0m
+[0;35mCurrent branch:[0m master
+
+[0;35mLocal branches:[0m
+[0;32m* master[0m
+
+[0;36mBranch Actions:[0m
+1. Create new branch
+2. Switch to branch
+3. Delete branch
+4. Return to main menu
+Choose an option: 4
+Returning to main menu
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 18:07:08[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 8
+remote: Repository not found.
+fatal: repository 'https://github.com/StrateUpCompany/scripts.git/' not found
+[0;32mPulled latest changes[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:36:50[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:37:04[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m 00_foundation_hubChecking.py
+  [0;33mUntracked:[0m 01_environment_setup.py
+  [0;33mUntracked:[0m "Architecture Foundation.md"
+  [0;33mUntracked:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;33mUntracked:[0m estudo-de-repositorios.md
+  [0;33mUntracked:[0m framework-22-sprints.md
+  [0;33mUntracked:[0m framework-sprints.md
+  [0;33mUntracked:[0m git-workflow.sh
+  [0;33mUntracked:[0m os12.md
+  [0;33mUntracked:[0m script_0.1_architecture_foundation.py
+  [0;33mUntracked:[0m script_0_foundation_hub.py
+  [0;33mUntracked:[0m shell-diamante.md
+  [0;33mUntracked:[0m smart-git-workflow.md
+  [0;33mUntracked:[0m smart-git-workflow.sh
+  [0;33mUntracked:[0m "360237222216framerork.md"
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 3
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:37:29[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  [0;32mAdded:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;32mAdded:[0m estudo-de-repositorios.md
+  [0;32mAdded:[0m framework-22-sprints.md
+  [0;32mAdded:[0m framework-sprints.md
+  [0;32mAdded:[0m git-workflow.sh
+  [
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:37:29[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Found8
+remote: Repository not found.
+fatal: repository 'https://github.com/StrateUpCompany/scripts.git/' not found
+[0;32mPulled latest changes[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:38:57[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  [0;32mAdded:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;32mAdded:[0m estudo-de-repositorios.md
+  [0;32mAdded:[0m framework-22-sprints.md
+  [0;32mAdded:[0m framework-sprints.md
+  [0;32mAdded:[0m git-workflow.sh
+  [0;32mAdded:[0m os12.md
+  [0;32mAdded:[0m script_0.1_architecture_foundation
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:38:57[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Found3
+[0;32mAll changes have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:39:18[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;33mNo remote tracking branch[0m
+
+[0;35mModified files:[0m
+  [0;32mAdded:[0m 00_foundation_hubChecking.py
+  [0;32mAdded:[0m 01_environment_setup.py
+  [0;32mAdded:[0m "Architecture Foundation.md"
+  [0;32mAdded:[0m MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  [0;32mAdded:[0m estudo-de-repositorios.md
+  [0;32mAdded:[0m framework-22-sprints.md
+  [0;32mAdded:[0m framework-sprints.md
+  [0;32mAdded:[0m git-workflow.sh
+  [0;32mAdded:[0m os12.md
+  [0;32mAdded:[0m script_0.1_architecture_foundation.py
+  [0;32mAdded:[0m script_0_foundation_hub.py
+  [0;32mAdded:[0m shell-diamante.md
+  [0;32mAdded:[0m smart-git-workflow.md
+  [0;32mAdded:[0m smart-git-workflow.sh
+  [0;32mAdded:[0m "360237222216framerork.md"
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 7 6
+[0;36mFiles to be committed:[0m
+  - script/00_foundation_hubChecking.py
+  - script/01_environment_setup.py
+  - script/Architecture Foundation.md
+  - script/MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+  - script/estudo-de-repositorios.md
+  - script/framework-22-sprints.md
+  - script/framework-sprints.md
+  - script/git-workflow.sh
+  - script/os12.md
+  - script/script_0.1_architecture_foundation.py
+  - script/script_0_foundation_hub.py
+  - script/shell-diamante.md
+  - script/smart-git-workflow.md
+  - script/smart-git-workflow.sh
+  - "script/360237222216framerork.md"
+
+[0;35mCommit Message:[0m
+[0;33mSuggested: [0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;35mAnalysis Details:[0m
+  Files Changed: [0;32m      15[0m
+  File Types: [0;32m md md" py script/Architecture sh [0m
+  Directories Changed: [0;32m       1[0m
+
+[0;35mSuggested Commit Message:[0m
+[0;32mfix(script): update codebase[0m
+fix(script): update codebase[0m
+Use suggested message? (y/n/e for edit)
+y
+[master c8bb6df] [0;36mGenerating Smart Commit Message:[0m [0;36m-----------------------------[0m [0;35mAnalysis Details:[0m   Files Changed: [0;32m      15[0m   File Types: [0;32m md md" py script/Architecture sh [0m   Directories Changed: [0;32m       1[0m
+ 15 files changed, 12942 insertions(+)
+ create mode 100644 script/00_foundation_hubChecking.py
+ create mode 100644 script/01_environment_setup.py
+ create mode 100644 script/Architecture Foundation.md
+ create mode 100644 script/MANUAL-DO-USUARIO-GIT-INTELIGENTE.md
+ create mode 100644 script/estudo-de-repositorios.md
+ create mode 100644 script/framework-22-sprints.md
+ create mode 100644 script/framework-sprints.md
+ create mode 100644 script/git-workflow.sh
+ create mode 100644 script/os12.md
+ create mode 100644 script/script_0.1_architecture_foundation.py
+ create mode 100644 script/script_0_foundation_hub.py
+ create mode 100644 script/shell-diamante.md
+ create mode 100644 script/smart-git-workflow.md
+ create mode 100755 script/smart-git-workflow.sh
+ create mode 100644 "script/\360\237\222\216framerork.md"
+[0;32mSuccessfully committed changes[0m
+
+[0;33mWould you like to push these changes? (y/n)[0m
+y
+[0;33mBranch master doesn't exist on remote.[0m
+Would you like to push and set upstream? (y/n)
+y
+Enumerating objects: 39, done.
+Counting objects:   2% (1/39)Counting objects:   5% (2/39)Counting objects:   7% (3/39)Counting objects:  10% (4/39)Counting objects:  12% (5/39)Counting objects:  15% (6/39)Counting objects:  17% (7/39)Counting objects:  20% (8/39)Counting objects:  23% (9/39)Counting objects:  25% (10/39)Counting objects:  28% (11/39)Counting objects:  30% (12/39)Counting objects:  33% (13/39)Counting objects:  35% (14/39)Counting objects:  38% (15/39)Counting objects:  41% (16/39)Counting objects:  43% (17/39)Counting objects:  46% (18/39)Counting objects:  48% (19/39)Counting objects:  51% (20/39)Counting objects:  53% (21/39)Counting objects:  56% (22/39)Counting objects:  58% (23/39)Counting objects:  61% (24/39)Counting objects:  64% (25/39)Counting objects:  66% (26/39)Counting objects:  69% (27/39)Counting objects:  71% (28/39)Counting objects:  74% (29/39)Counting objects:  76% (30/39)Counting objects:  79% (31/39)Counting objects:  82% (32/39)Counting objects:  84% (33/39)Counting objects:  87% (34/39)Counting objects:  89% (35/39)Counting objects:  92% (36/39)Counting objects:  94% (37/39)Counting objects:  97% (38/39)Counting objects: 100% (39/39)Counting objects: 100% (39/39), done.
+Delta compression using up to 8 threads
+Compressing objects:   2% (1/37)Compressing objects:   5% (2/37)Compressing objects:   8% (3/37)Compressing objects:  10% (4/37)Compressing objects:  13% (5/37)Compressing objects:  16% (6/37)Compressing objects:  18% (7/37)Compressing objects:  21% (8/37)Compressing objects:  24% (9/37)Compressing objects:  27% (10/37)Compressing objects:  29% (11/37)Compressing objects:  32% (12/37)Compressing objects:  35% (13/37)Compressing objects:  37% (14/37)Compressing objects:  40% (15/37)Compressing objects:  43% (16/37)Compressing objects:  45% (17/37)Compressing objects:  48% (18/37)Compressing objects:  51% (19/37)Compressing objects:  54% (20/37)Compressing objects:  56% (21/37)Compressing objects:  59% (22/37)Compressing objects:  62% (23/37)Compressing objects:  64% (24/37)Compressing objects:  67% (25/37)Compressing objects:  70% (26/37)Compressing objects:  72% (27/37)Compressing objects:  75% (28/37)Compressing objects:  78% (29/37)Compressing objects:  81% (30/37)Compressing objects:  83% (31/37)Compressing objects:  86% (32/37)Compressing objects:  89% (33/37)Compressing objects:  91% (34/37)Compressing objects:  94% (35/37)Compressing objects:  97% (36/37)Compressing objects: 100% (37/37)Compressing objects: 100% (37/37), done.
+Writing objects:   2% (1/39)Writing objects:   5% (2/39)Writing objects:   7% (3/39)Writing objects:  10% (4/39)Writing objects:  12% (5/39)Writing objects:  17% (7/39)Writing objects:  20% (8/39)Writing objects:  23% (9/39)Writing objects:  25% (10/39)Writing objects:  28% (11/39)Writing objects:  30% (12/39)Writing objects:  33% (13/39)Writing objects:  35% (14/39)Writing objects:  38% (15/39)Writing objects:  41% (16/39)Writing objects:  43% (17/39)Writing objects:  46% (18/39)Writing objects:  48% (19/39)Writing objects:  53% (21/39)Writing objects:  56% (22/39)Writing objects:  58% (23/39)Writing objects:  61% (24/39)Writing objects:  64% (25/39)Writing objects:  66% (26/39)Writing objects:  69% (27/39)Writing objects:  71% (28/39)Writing objects:  74% (29/39)Writing objects:  76% (30/39)Writing objects:  79% (31/39)Writing objects:  82% (32/39)Writing objects:  84% (33/39)Writing objects:  87% (34/39)Writing objects:  89% (35/39)Writing objects:  92% (36/39)Writing objects:  94% (37/39)Writing objects:  97% (38/39)Writing objects: 100% (39/39)Writing objects: 100% (39/39), 210.01 KiB | 9.13 MiB/s, done.
+Total 39 (delta 7), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/7)[Kremote: Resolving deltas:  14% (1/7)[Kremote: Resolving deltas:  28% (2/7)[Kremote: Resolving deltas:  42% (3/7)[Kremote: Resolving deltas:  57% (4/7)[Kremote: Resolving deltas:  71% (5/7)[Kremote: Resolving deltas:  85% (6/7)[Kremote: Resolving deltas: 100% (7/7)[Kremote: Resolving deltas: 100% (7/7), done.[K
+To https://github.com/StrateUpCompany/scripts.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:39:47[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 7
+Everything up-to-date
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:40:58[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest com[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ `4
+[0;33mEnter file paths to stage (space separated):[0m
+
+Nothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Disable this message with "git config set advice.addEmptyPathspec false"[m
+[0;32mChanges have been staged[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:41:18[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 7
+Everything up-to-date
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:41:28[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analy7
+Everything up-to-date
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ `6
+[0;33mNo changes staged for commit.[0m
+Would you like to stage all changes? (y/n)
+y
+[0;36mFiles to be committed:[0m
+
+[0;35mCommit Message:[0m
+[0;33mSuggested: [0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m[0m
+Use suggested message? (y/n/e for edit)
+y
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    ../scripts/00-environment-prep.sh[m
+	[31mdeleted:    ../scripts/00.1-fix-git-environment.sh[m
+	[31mdeleted:    ../scripts/01-project-init.sh[m
+	[31mdeleted:    ../scripts/1.1-project-init.sh[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../ScriptControll/[m
+	[31m../scripts2/[m
+	[31m../typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[0;31mFailed to commit changes[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:41:51[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option:  _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:41:51[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ../ScriptControll/
+  [0;33mUntracked:[0m ../scripts2/
+  [0;33mUntracked:[0m ../typescript
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 1
+[0;36mGenerating Smart Commit Message:[0m
+[0;36m-----------------------------[0m
+[0;33mNo changes staged for commit.[0m
+[0;33mPress Enter to continue[0m
+
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:42:24[0m
+
+[0;36mCurrent Git Status:[0m
+[0;36m------------------[0m
+[0;35mCurrent branch:[0m master
+[0;35mRemote tracking:[0m origin/master
+
+[0;35mModified files:[0m
+  [0;31mDeleted:[0m ./scripts/00-environment-prep.sh
+  [0;31mDeleted:[0m ./scripts/00.1-fix-git-environment.sh
+  [0;31mDeleted:[0m ./scripts/01-project-init.sh
+  [0;31mDeleted:[0m ./scripts/1.1-project-init.sh
+  [0;33mUntracked:[0m ScriptControll/
+  [0;33mUntracked:[0m typescript
+  [0;33mUntracked:[0m ../scripts2/
+
+[0;36mAvailable Actions:[0m
+1. Smart analyze changes and suggest commit message
+2. Deep analyze content changes
+3. Stage all changes
+4. Stage specific files
+5. Unstage files
+6. Commit with smart message
+7. Push commits
+8. Pull latest changes
+9. Branch management
+0. Exit
+Choose an option: 2
+[0;36mDeep Analysis of Changes:[0m
+[0;36m-----------------------[0m
+[0;33mNo changes staged for deep analysis.[0m
+[3J[H[2J[0;34m
+  _____                      _      _____  _  _   
+ / ____|                    | |    / ____|| |(_)  
+| (___  _ __ ___   __ _ _ __| |_  | |  __ | | _  __ _ 
+ \___ \| '_ ` _ \ / _` | '__| __| | | |_ || || |/ _` |
+ ____) | | | | | | (_| | |  | |_  | |__| || || | (_| |
+|_____/|_| |_| |_|\__,_|_|   \__|  \_____||_||_|\__,_|
+[0m
+[0;33mSmart Git Workflow with Automated Commit Message Generation[0m
+[0;36m--------------------------------------------------------[0m
+[0;32mStrateUpCompany[0m
+[0;36mCurrent Date: 2025-06-05 19:42:25[0m
+
